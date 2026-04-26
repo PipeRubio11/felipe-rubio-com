@@ -1,53 +1,35 @@
 {
   "Nav": {
     "about": "Sobre mí",
-    "work": "Casos",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
     "stack": "Stack",
     "certifications": "Certificaciones",
-    "contact": "Contacto",
     "switchLocale": "EN"
   },
-  "Hero": {
-    "eyebrow": "Felipe Rubio · Santiago, Chile",
-    "tagline": "Head of Paid Media + AI builder",
-    "headline": "Dirijo USD 2M+ en pauta y código mis propias herramientas.",
-    "description": "Llevo 5+ años liderando paid media en Chile, Brasil y México — USD 2M+ gestionados, ROAS hasta 14x, alianzas con Scotiabank, BCI y Uber por USD 300K en ingresos directos. Lo que me diferencia: también construyo el software que automatiza esa operación.",
-    "punchline": "No contrato un equipo de growth: soy el equipo.",
-    "ctaPrimary": "Ver casos",
-    "ctaSecondary": "Contactar"
-  },
-  "Metrics": {
-    "managed": "en pauta gestionada",
-    "apis": "APIs integradas en producción",
-    "roas": "ROAS máximo alcanzado",
-    "years": "años liderando equipos",
-    "projectsProd": "proyectos en producción",
-    "consultancy": "proyectos de consultoría"
+  "Bio": {
+    "name": "Felipe Rubio",
+    "title": "Head of Paid Media + AI builder",
+    "subtitle": "en Viña Concha y Toro",
+    "tagline": "Dirijo USD 2M+ en pauta digital y código mis propias herramientas con IA."
   },
   "About": {
     "title": "Sobre mí",
-    "kicker": "Periodista que terminó construyendo SaaS con IA",
-    "p1": "Periodista de formación (UNAB, distinción académica) que terminó construyendo SaaS con IA. Cinco años liderando paid media en LATAM — USD 2M+ en inversión, ROAS hasta 14x, equipos en Chile, Brasil y México, alianzas con Scotiabank, Uber, BCI, Sura y Consorcio.",
-    "p2": "En 2023 dejé de pedirle a la agencia. Aprendí FastAPI, Next.js y la API de Claude porque era el camino más rápido para hacer mi trabajo mejor. Hoy opero RocketMonk — un SaaS multi-tenant que conecta 19 APIs profesionales (Google Ads MCC, GA4, Meta, Stripe, Anthropic, KIE.ai entre otras) y automatiza la operación que llevo años liderando.",
+    "p1": "Periodista de formación que terminó construyendo SaaS con IA. Llevo cinco años liderando paid media en LATAM — USD 2M+ en inversión, ROAS hasta 14x, equipos en Chile, Brasil y México.",
+    "p2": "En 2023 dejé de pedirle a la agencia. Aprendí FastAPI, Next.js y la API de Claude porque era el camino más rápido para hacer mi trabajo mejor. Hoy opero <rocketmonk>RocketMonk</rocketmonk> — un SaaS multi-tenant que conecta 19 APIs profesionales y automatiza la operación que llevo años liderando.",
     "p3": "También construyo automaciones, sitios corporativos, dashboards ejecutivos y herramientas internas. La diferencia con un dev tradicional es que sé qué decisión hay que tomar antes de escribir la query. La diferencia con un marketing leader tradicional es que la implemento yo.",
-    "timelineTitle": "Trayectoria",
-    "teamsLabel": "Equipos liderados",
-    "metricsLabel": "Métricas clave",
-    "education": "Educación"
+    "p4": "He cerrado alianzas con <scotiabank>Scotiabank</scotiabank>, <bci>BCI</bci>, <uber>Uber</uber>, Sura y Consorcio por USD 300K en ingresos directos anuales, y dirigido la inversión digital de <descorcha>Descorcha</descorcha> en tres mercados LATAM."
   },
-  "Work": {
-    "title": "Casos",
-    "kicker": "Lo que construyo y opero",
+  "Experience": {
+    "title": "Experiencia",
+    "viewResume": "Ver currículum completo"
+  },
+  "Projects": {
+    "title": "Proyectos",
     "viewLive": "Ver en vivo",
-    "tier": {
-      "destacado": "Destacado",
-      "secundario": "Secundario"
-    },
-    "stackLabel": "Stack",
-    "apisLabel": "APIs & Servicios",
-    "highlightsLabel": "Highlights",
-    "roleLabel": "Rol",
-    "clientLabel": "Cliente"
+    "viewCode": "Código",
+    "showcasedTitle": "Algunas cosas que he construido",
+    "moreTitle": "Otros proyectos destacados"
   },
   "Stack": {
     "title": "Stack",
@@ -55,7 +37,7 @@
   },
   "Certifications": {
     "title": "Certificaciones",
-    "kicker": "13 certificaciones activas en Anthropic, Google, Meta, TikTok, LinkedIn, Shopify y HubSpot",
+    "kicker": "13 certificaciones activas",
     "categories": {
       "ai": "IA & Desarrollo",
       "google": "Google",
@@ -65,19 +47,8 @@
       "engineering": "Ingeniería"
     }
   },
-  "Contact": {
-    "title": "Contacto",
-    "kicker": "Si lideras un equipo de marketing o construyes algo con IA, hablemos.",
-    "emailLabel": "Email",
-    "phoneLabel": "Teléfono",
-    "linkedinLabel": "LinkedIn",
-    "locationLabel": "Ubicación",
-    "languagesLabel": "Idiomas",
-    "ctaEmail": "Escríbeme",
-    "ctaLinkedIn": "LinkedIn"
-  },
   "Footer": {
-    "tagline": "Head of Paid Media + AI builder · Santiago, Chile",
-    "rights": "Todos los derechos reservados."
+    "built": "Diseñado y construido por Felipe Rubio. Hecho con Next.js, Tailwind CSS y Vercel.",
+    "source": "Código en GitHub"
   }
 }

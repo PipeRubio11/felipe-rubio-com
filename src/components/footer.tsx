@@ -1,18 +1,21 @@
 import { useTranslations } from "next-intl";
-import { personal } from "@/data/cv";
+import { ArrowUpRight } from "lucide-react";
 
 export function Footer() {
   const t = useTranslations("Footer");
-  const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-foreground/10 py-10">
-      <div className="mx-auto flex w-full max-w-5xl flex-col items-start justify-between gap-3 px-6 text-xs text-foreground/55 sm:flex-row sm:items-center sm:px-10">
-        <p>{t("tagline")}</p>
-        <p>
-          © {year} {personal.fullName} · {t("rights")}
-        </p>
-      </div>
+    <footer className="mt-16 pb-16 text-sm text-slate">
+      <p>{t("built")}</p>
+      <a
+        href="https://github.com/PipeRubio11/felipe-rubio-com"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="group mt-2 inline-flex items-center gap-1 font-mono text-xs uppercase tracking-[0.18em] text-light-slate hover:text-green"
+      >
+        {t("source")}
+        <ArrowUpRight className="size-3 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+      </a>
     </footer>
   );
 }

@@ -24,7 +24,7 @@ export function LocaleToggle() {
       type="button"
       onClick={onClick}
       disabled={isPending}
-      className="font-mono text-xs uppercase tracking-[0.2em] text-foreground/60 transition-colors hover:text-foreground disabled:opacity-50"
+      className="font-mono text-xs uppercase tracking-[0.18em] text-slate transition-colors hover:text-green disabled:opacity-50"
       aria-label={`Switch to ${next}`}
     >
       {t("switchLocale")}
