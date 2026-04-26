@@ -1,0 +1,83 @@
+{
+  "Nav": {
+    "about": "About",
+    "work": "Work",
+    "stack": "Stack",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "switchLocale": "ES"
+  },
+  "Hero": {
+    "eyebrow": "Felipe Rubio · Santiago, Chile",
+    "tagline": "Head of Paid Media + AI builder",
+    "headline": "I run USD 2M+ in ad spend and code my own tools.",
+    "description": "5+ years leading paid media across Chile, Brazil, and Mexico — USD 2M+ managed, up to 14x ROAS, partnerships with Scotiabank, BCI, and Uber generating USD 300K in direct revenue. What sets me apart: I also build the software that automates the operation.",
+    "punchline": "I don't hire a growth team: I am the team.",
+    "ctaPrimary": "See work",
+    "ctaSecondary": "Contact"
+  },
+  "Metrics": {
+    "managed": "ad spend managed",
+    "apis": "APIs in production",
+    "roas": "max ROAS achieved",
+    "years": "years leading teams",
+    "projectsProd": "projects in production",
+    "consultancy": "consulting projects"
+  },
+  "About": {
+    "title": "About",
+    "kicker": "A journalist who ended up building AI SaaS",
+    "p1": "Journalist by training (UNAB, academic distinction) who ended up building AI SaaS. Five years leading paid media across LATAM — USD 2M+ invested, up to 14x ROAS, teams in Chile, Brazil, and Mexico, partnerships with Scotiabank, Uber, BCI, Sura, and Consorcio.",
+    "p2": "In 2023 I stopped asking the agency. I learned FastAPI, Next.js, and the Claude API because it was the fastest path to do my job better. Today I run RocketMonk — a multi-tenant SaaS that connects 19 professional APIs (Google Ads MCC, GA4, Meta, Stripe, Anthropic, KIE.ai among others) and automates the operation I've led for years.",
+    "p3": "I also build automations, corporate sites, executive dashboards, and internal tools. The difference with a traditional dev is that I know what decision needs to be made before writing the query. The difference with a traditional marketing leader is that I implement it myself.",
+    "timelineTitle": "Career path",
+    "teamsLabel": "Teams led",
+    "metricsLabel": "Key metrics",
+    "education": "Education"
+  },
+  "Work": {
+    "title": "Work",
+    "kicker": "What I build and operate",
+    "viewLive": "View live",
+    "tier": {
+      "destacado": "Featured",
+      "secundario": "Secondary"
+    },
+    "stackLabel": "Stack",
+    "apisLabel": "APIs & Services",
+    "highlightsLabel": "Highlights",
+    "roleLabel": "Role",
+    "clientLabel": "Client"
+  },
+  "Stack": {
+    "title": "Stack",
+    "kicker": "Marketing, engineering, and everything in between"
+  },
+  "Certifications": {
+    "title": "Certifications",
+    "kicker": "13 active certifications across Anthropic, Google, Meta, TikTok, LinkedIn, Shopify, and HubSpot",
+    "categories": {
+      "ai": "AI & Development",
+      "google": "Google",
+      "paid-media": "Paid Media",
+      "ecommerce": "E-commerce & Product",
+      "inbound": "Inbound & CRM",
+      "engineering": "Engineering"
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "kicker": "If you lead a marketing team or are building something with AI, let's talk.",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "linkedinLabel": "LinkedIn",
+    "locationLabel": "Location",
+    "languagesLabel": "Languages",
+    "ctaEmail": "Email me",
+    "ctaLinkedIn": "LinkedIn"
+  },
+  "Footer": {
+    "tagline": "Head of Paid Media + AI builder · Santiago, Chile",
+    "rights": "All rights reserved."
+  }
+}
